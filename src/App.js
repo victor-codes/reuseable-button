@@ -1,5 +1,4 @@
 import Button from "./Components/Button";
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
